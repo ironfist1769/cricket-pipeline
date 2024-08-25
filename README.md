@@ -12,13 +12,8 @@ Python: For data extraction, transformation, and loading.
 RapidAPI: Source for the cricket stats data.
 
 ## Project Structure
-.
-├── dags/
-│   └── dags_cricket_etl_pipeline.py         # Main Airflow DAG script
-├── modules/
-│   ├── dags_modules_Data_Load_BQ.py         # Module to load CSV data to BigQuery
-│   └── dags_modules_extract_and_push_gcs.py # Module to fetch, transform, and upload data to GCS
-├── README.md                                # Project documentation
+
+![Project Structure](https://github.com/user-attachments/assets/809dffc9-88c3-4710-9484-1306d9df913b)
 
 ## Pipeline Overview
 ## 1. Data Extraction and Transformation:
