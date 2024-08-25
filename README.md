@@ -4,6 +4,10 @@ This project is designed to fetch cricket stats data from an API, process the da
 ## Problem Statement
 The goal is to automate the collection, transformation, and loading of cricket statistics data for users who require up-to-date cricket stats. This pipeline ensures the data is regularly fetched, processed, and stored in a structured format for quick consumption and analysis.
 
+## Architecture Diagram
+![image](https://github.com/user-attachments/assets/19018523-f777-4ae3-909f-64ef17cd92af)
+
+
 ## Technologies Used
 Google Cloud Composer (Airflow): For orchestration and scheduling.
 Google Cloud Storage (GCS): For storing the transformed CSV data.
