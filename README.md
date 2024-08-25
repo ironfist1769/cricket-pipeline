@@ -35,7 +35,7 @@ Scalable and Flexible: The pipeline can be easily extended to handle more data s
 
 ## How to Run
 Clone this repository:
-git clone https://github.com/ironfist1769/cricket-stats-pipeline.git
+git clone https://github.com/ironfist1769/cricket-pipeline
 
 ## Navigate to the project directory:
 cd cricket-stats-pipeline
